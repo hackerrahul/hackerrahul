@@ -7,6 +7,8 @@
 	- **Full Stack Development**
 	- **PHP**
 	- **Node JS (with or without Typescript)**
+	- **React JS**
+	- **Vue JS**
 	- **Svelte JS**
 
 - 👨‍💻 Check out my personal blog : **<a href="https://hackerrahul.com" target="_blank">Blog</a>**
